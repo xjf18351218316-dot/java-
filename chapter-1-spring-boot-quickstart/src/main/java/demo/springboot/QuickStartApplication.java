@@ -11,6 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class QuickStartApplication {
     public static void main(String[] args) {
+        //非常不错
         SpringApplication.run(QuickStartApplication.class, args);
     }
 }
